@@ -1,0 +1,197 @@
+C:\Users\ousismail\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\ousismail\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\ousismail\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.Form2.resources
+C:\Users\ousismail\source\repos\Menu\Menu\obj\Debug\Menu.Form3.resources
+C:\Users\logan\Desktop\Menu\bin\Debug\Menu.exe.config
+C:\Users\logan\Desktop\Menu\bin\Debug\Menu.exe
+C:\Users\logan\Desktop\Menu\bin\Debug\Menu.pdb
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.Form2.resources
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.Form3.resources
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.exe
+C:\Users\logan\Desktop\Menu\obj\Debug\Menu.pdb
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\bin\Debug\Menu.exe.config
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\bin\Debug\Menu.exe
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\bin\Debug\Menu.pdb
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.Form2.resources
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.Form3.resources
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.exe
+C:\Users\logan\Desktop\برنامج تثبيت الايم TOOSOON\Menu\obj\Debug\Menu.pdb
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\source\repos\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\DELL\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.statistics.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\Menu\obj\Debug\Menu.History.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.History.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.statistics.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\logan\Desktop\final\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.History.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.statistics.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\lenovo\Desktop\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.History.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.statistics.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\Menu\obj\Debug\Menu.steps.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\bin\Debug\Menu.exe.config
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\bin\Debug\Menu.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\bin\Debug\Menu.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\bin\Debug\FCTEST2.exe.config
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.History.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.MainMenu.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.CreateGame.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.RegisterForm.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.statistics.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.steps.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\Menu\obj\Debug\Menu.Current.resources

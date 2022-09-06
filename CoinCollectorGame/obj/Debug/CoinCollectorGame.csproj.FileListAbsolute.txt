@@ -1,0 +1,106 @@
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\m7mdv\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame.101\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\lenovo\Downloads\CoinCollectorGame-20220108T222149Z-001\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\logan\Desktop\final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\lenovo\Desktop\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\logan\Desktop\final\final final\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe.config
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\bin\Debug\FCTEST2.pdb
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.CoinCollector.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\CoinCollectorGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.exe
+C:\Users\DELL\Desktop\c# project\CoinCollectorGame final (2)\CoinCollectorGame\CoinCollectorGame\obj\Debug\FCTEST2.pdb

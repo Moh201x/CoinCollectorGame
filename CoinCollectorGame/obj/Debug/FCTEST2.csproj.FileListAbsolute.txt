@@ -1,0 +1,81 @@
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (2)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (3)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Form1.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\Mohammed Khalid\Desktop\New folder (4)\New folder (4)\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe.config
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\bin\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.SuggestedBindingRedirects.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.Properties.Resources.resources
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.GenerateResource.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.exe
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.pdb
+C:\Users\logan\source\repos\FCTEST2\FCTEST2\obj\Debug\FCTEST2.CoinCollector.resources
